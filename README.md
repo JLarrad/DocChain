@@ -14,7 +14,7 @@ The extension has two working modes which you have to select in the configuratio
 ##Limitations
 
 For some reason I don't know why, the multiple selection doesn't work when you are selecting values for the FIRST field of every data table.
-I supposse this issue is related to how Sense load data into memory but really I don't know for sure.
+I supposse this issue is related to how Sense loads data into memory but really I don't know for sure.
 
 The number of fields and values you can pass in the "search" URL is limited by the maximum size of the URL in each web browser. The extension itself doesn't have any limitation hardcoded.
 
