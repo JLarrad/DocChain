@@ -21,7 +21,7 @@ This means that the first field in each table will not work well with this exten
 
 ##Setup
 
-- Choose the working mode. If the mode is "Only Receiver" you do not need anything more.
+- Choose the working mode. If the mode is "Only Receiver" you do not need anything else.
 - Insert the IP server address hosting the destination App.
 - Insert the name of the destination APP with " ". (The reason why the setup is done with App Name instead App ID it's because the name of the Apps should not change, and if it does, it's a "new one". Meanwhile, the ID itself can vary, that's why one of the tasks the code does is to ask to the repository for the App ID.)
 
