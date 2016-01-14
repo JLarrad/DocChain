@@ -7,7 +7,7 @@ It builds on the qsocks project.
 
 The extension has two working modes which you have to select in the configuration panel.
 
-- Sender: Displays a dynamic URL to another sheet in another Sense document passing throught the "search" component of the URL the fields and values you need to pass.
+- Sender: Displays a dynamic URL to another sheet in another Sense document passing through the "search" component of the URL the fields and values you need to pass.
 - Receiver: Reads the "search" URL component looking for parameters and makes the proper selections when needed.
 
 
