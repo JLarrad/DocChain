@@ -1,0 +1,7 @@
+{
+	"name": "DocumentChaining",
+	"description": "Document Chaining Ext.",
+	"type": "visualization",
+	"version": 1,
+	"author": "Javier Larrad"
+}
