@@ -22,3 +22,5 @@ The number of fields and values you can pass in the "search" URL is limited by t
 ##Further Notes
 
 This extension is still under development and there is a chance of not working 100%.
+
+English translation in progress.
